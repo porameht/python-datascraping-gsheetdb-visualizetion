@@ -44,7 +44,7 @@ def output(allData):
     sh.append_row(allData)
     return
 
-while true:
+while True:
 
     data = asyncio.run(getHtml())
     sumalize = manipulate(data)
