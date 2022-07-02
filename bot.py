@@ -14,7 +14,7 @@ async def getHtml():
         await page.fill('input#username','aun')
         await page.fill('input#password','aun331930')
         await page.click('a#login')
-        await page.wait_for_timeout(10000)
+        await page.wait_for_timeout(20000)
         await page.wait_for_selector('main.page-content')
         await page.is_visible("div.ml-auto")
         html = await page.inner_html('main.page-content')
@@ -45,7 +45,6 @@ def output(allData):
     return
 
 while True:
-
     data = asyncio.run(getHtml())
     sumalize = manipulate(data)
     output(sumalize)
