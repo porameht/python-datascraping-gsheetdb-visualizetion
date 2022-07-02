@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "python-data-scraping-354712",
+  "private_key_id": "e385050341c0b0390ab7eb08b8bcfb6b0cc34d65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrrg5zwKdoPK1X\nDC2HibM/xabjO4xOGfvS/yp7Z3M8MW9YczarqE9ft+w0qwgB/YzMWKu9mB0vr/YM\nv0KHZ9SNh9MsPXahfJ89ApFyY22EgzPAwNlmLBQvw6xtakSbg7oP6QwAUSDX7xYL\nB6H9meHtugPOaE1E/B3thlbR6ku8utI1DCU/nIwaJKNoTTKZZZDe0wmMpigryaz0\nSgU7E5lUes14zSh/bnBf14M6y0vw8u7UU5YnZq/6fMbvzsg6Z3Zchg/va0ojCafg\nTd10qLjPoGCp3W1oE9KiplT57xAE5SKCXJsUA6Cmfw9T2Bsu5YvWoTHoN+vJA6fh\ntoQst6vPAgMBAAECggEABfKhSIxXoGpdvQLMfwIbxi1UU1IIUdpfmZdCgwT5/o9d\n4qwXLEpH+bJ3CfoU7HC61IeL56Uh+bl4ZkeoB+XmfMLEY6d7eSvGnof8vwBH1ovv\nGpHz1jDXwDHgwueoGdUt+Igj5MzqvOBpHJe2moEezSwhHqEJcEblyIlbb6lU12R4\n7wNA0E0pDn2ZYArrS1y4BezvlpPO9olKDtPA41VLe3CykdKX0y95WDyETDIwKK3g\nlQCF/OhIDhSIwmXeXBBwvmsuT0ir07PaCejKRYlq0WWjO/d181ftw/CZQ5jywrrO\nobXujybCKqdiNh9jg+tYNtNrVmbRTILlkcv/QjNtmQKBgQDqY3hUft7giN86oVES\nrKtI+9LbgXZ/D42Q79NywwWkQobWJIkpelPThsco2KO/E7QvzjTRgwLJW9gNb/KN\nqWMxuI2+WINBamNFWFIfIPu4L0BrytweW1DO9YNtEpGl1Nc562UFkDbygL1PqJKp\npADUGjxt243u76Oku2+5witd9wKBgQC7gmfOUpYqyhRvMCXcWv8D4cPbVvdWUAPk\nh/OWkxgRvRaF5l81cnAv2c/3/A9+j1SXH7PhvVWHh767T6UfAa1Ngd8X3X2HWrVo\n7bQgYge6AlwqIkuQd5tB7e1FIFYaHWLwJFldWw+P09aCjrvtwkUMR5GtsE3Ko1hy\n63g5vCiK6QKBgQCtfTTq7gGQlx8MKa11siMSYXtAiIIqKFvzxOBxGJNLcwaU6PQx\npF75udAelsQVQcNkgzArR9q/KmEwCQWy/4bxnZYlJyT4PYP/JxGaAvLu8OKxJrVp\nLtQQbD98c3slEPbB40+iH43cT5hQpwjv0fnfBRBnjFRxYCVzYF2hVGx/HwKBgQC3\nE9guxsv/81aISUZuJBqhu6jzW7Ia//0NAQCAoBX8G9cF3axQDvAiiFRaGC04sNEy\nzK1hVu9PaOZ9FIJwB78h0g/0yTlrEtHVJWGdzJkmsG80ZE/LOjzI3nmv6Kao0NBt\nD9CBKgvDrl3fE2XB+tBX8Pj30Q/jLiGJ8wZruJ8NIQKBgCdOYAdbDVyj3/5lGZoX\n39ESW6QLWytyIaRzcWnqsAasFbkuXyLW62xDaWOeCK9izET1eO66Fg9Hj6ofDG+1\nhZ+VjUbEXt2lbVQxcMSbo1n7iTj1SVhcnXZtRoSjXCzi5wGTW7h8DkIyukY9K/7B\nZ5HI8Fi7fyFmVBOtmnWnkaqF\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-data-scraping@python-data-scraping-354712.iam.gserviceaccount.com",
+  "client_id": "117389179818351805451",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-data-scraping%40python-data-scraping-354712.iam.gserviceaccount.com"
+}
