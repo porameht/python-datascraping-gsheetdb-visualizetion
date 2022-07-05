@@ -8,13 +8,14 @@ import datetime
 async def getHtml():
     
     async with async_playwright() as p:
-        browser = await p.chromium.launch()
+        browser = await p.chromium.launch(headless=False, slow_mo=50)
         page = await browser.new_page()
         await page.goto("https://backoffice.nigoal939.com/login")
         await page.fill('input#username','aun')
         await page.fill('input#password','aun331930')
         await page.click('a#login')
         await page.wait_for_timeout(20000)
+        await page.goto("https://backoffice.nigoal939.com/login")
         await page.wait_for_selector('main.page-content')
         await page.is_visible("div.ml-auto")
         html = await page.inner_html('main.page-content')
