@@ -49,3 +49,16 @@ def manipulate(html):
     #     result_table = data_table[i].text
     #     arr_table.append(result_table)
     # print(arr_table)
+
+    # print(table_rows)
+    # print(len(table_rows))
+    # print(len(table_headers))
+    
+    
+    
+  # Create a dataframe
+    # my_table = pd.DataFrame(columns = table_headers)
+    # Create a for loop to fill mydata  
+    # print(row)
+        # length = len(my_table)
+        # my_table.loc[length] = row
